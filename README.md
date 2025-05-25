@@ -19,7 +19,7 @@ This project was created for the **Software Engineer Intern – AI/ML Applicatio
 
 ## 📸 Demo
 
-🔗 [Insert your demo video link here]
+🔗 [Demo video link here][(https://drive.google.com/file/d/1d_gjnwGmGjQ46Ut9VNOCQcdPmpJOXTY_/view?usp=sharing)]
 
 ---
 
