@@ -3,7 +3,4 @@ uvicorn
 streamlit
 requests
 sqlalchemy
-passlib[bcrypt]              
-python-multipart
-jinja2 
 python-dotenv
